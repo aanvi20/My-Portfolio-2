@@ -1,0 +1,27 @@
+
+  h1{
+   color:deeppink     
+  }
+
+*{
+ border:solid
+}
+
+.header{
+    background-color: aquamarine;
+    display :flex;
+    justify-content : space-between ;
+}
+
+.grid{
+    background-color: gold;
+    display:flex;
+    justify-content : space-evenly;
+    flex-wrap: wrap ;
+}
+
+.footer{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: end;
+}
